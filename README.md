@@ -8,5 +8,5 @@ Grab and Scrap With High Speed On Blockchain , Atomic Wallet or Guarda All Trans
 
 can Use This Software For [TXIDER](https://github.com/Pymmdrza/TXIDER) Application for RSZ .
 
-programmer website [mmdrza.com](https://mmdrza.com 'MMDRZA.COM') and Telegram channel [CryptoAttacker](https://CryptoAttacker.t.me 'CryptoAttacker Telegram Channel Address') .
+programmer website [mmdrza.com](https://mmdrza.com 'MMDRZA.COM') and Telegram channel [Cryptoixer](https://Cryptoixer.t.me 'CryptoAttacker Telegram Channel Address') .
 
