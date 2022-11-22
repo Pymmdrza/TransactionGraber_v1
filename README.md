@@ -4,13 +4,25 @@
 
 # Transaction Grabber V1
 
-![Transaction Graber Bitcoin Block](https://github.com/Pymmdrza/TransactionGraber_v1/raw/mainx/media/TransactionGraberScreen.png 'Transaction Graber Bitcoin Block')
+![Transaction Graber Bitcoin Block](https://raw.githubusercontent.com/Pymmdrza/TransactionGraber_v1/mainx/media/04screen.png 'Transaction Graber Bitcoin Block')
 
 Grab and Scrap With High Speed On Blockchain , Atomic Wallet or Guarda All Transaction Bitcoin (Confirm and UnConfirm) .
 
 can Use This Software For [TXIDER](https://github.com/Pymmdrza/TXIDER) Application for RSZ .
 ---
 
+Transaction Grabber V1 - [Download Section](https://github.com/Pymmdrza/TransactionGraber_v1/releases/tag/TG-V1.0.0.1 'Transaction Grabber V1'):
+
+[Github] Transaction Grabber V1 (Auto Setup)[.EXE] [[ DOWNLOAD ](https://github.com/Pymmdrza/TransactionGraber_v1/releases/download/TG-V1.0.0.1/TransactionGrabber_V1_Setup.exe)]
+
+[Github] Transaction Grabber V1 (Portable)[.EXE] [[ DOWNLOAD ](https://github.com/Pymmdrza/TransactionGraber_v1/releases/download/TG-V1.0.0.1/TransactionGrabberV1.Portable.exe)]
+
+[Github] Transaction Grabber V1 (Auto Setup)[.ZIP] [[ DOWNLOAD ](https://github.com/Pymmdrza/TransactionGraber_v1/releases/download/TG-V1.0.0.1/Transaction_GrabberV1.zip)]
+
+*For Downnload From Another Server Can Follow This [Link](https://github.com/Pymmdrza/TransactionGraber_v1#download)*
+
+
+---
 Check VirusTotal [Link](https://www.virustotal.com/gui/file/6061baca3d400188322a575103f500d074629989c23efe01bef4d62fb2efe2d3?nocache=1)
 
 MD5 `d7be42d64db09769186c4c98f2335610`
