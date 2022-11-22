@@ -85,6 +85,11 @@ Download On *SourceForge* :
 
 [![Download Transaction Grabber V1](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/transaction-grabber-v1/files/latest/download)
 
+---
+
+for read more about installing and use setup file can follow [wiki link](https://github.com/Pymmdrza/TransactionGraber_v1/wiki/ 'Wiki Link Transaction Grabber V1') 
+
+and for about to config and install first [This Link](https://github.com/Pymmdrza/TransactionGraber_v1/wiki/How-To-Install-Transaction-Grabber 'Wiki Link Transaction Grabber V1') 
 
 
 programmer website [mmdrza.com](https://mmdrza.com 'MMDRZA.COM') and Telegram channel [Cryptoixer](https://Cryptoixer.t.me 'CryptoAttacker Telegram Channel Address') .
